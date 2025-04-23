@@ -29,12 +29,6 @@ A sleek and responsive **Basic Calculator** built with HTML, CSS, and JavaScript
 
 ---
 
-## 📸 Screenshots
-
-> *(Add a screenshot here, if available)*
-
----
-
 ## 🚀 Getting Started
 
 1. Clone the repository:
