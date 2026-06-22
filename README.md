@@ -1,10 +1,10 @@
-# 🔢 Basic Calculator Website
+# Basic Calculator Website
 
 A sleek and responsive **Basic Calculator** built with HTML, CSS, and JavaScript. Designed for simplicity and speed, this web calculator performs basic arithmetic operations with a clean user interface that's perfect for all devices.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔹 **Addition, Subtraction, Multiplication, Division**
 - 🔹 Keyboard Input Support
@@ -15,7 +15,7 @@ A sleek and responsive **Basic Calculator** built with HTML, CSS, and JavaScript
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 - **HTML5** – Structure
 - **CSS3** – Styling and Layout
@@ -23,9 +23,9 @@ A sleek and responsive **Basic Calculator** built with HTML, CSS, and JavaScript
 
 ---
 
-## 🌐 Live Preview
+##  Live Preview
 
-> [🔗 Click Here to Try the Calculator (Optional)](https://avdeshjadon-dev.github.io/calculator/)
+> [ Click Here to Try the Calculator (Optional)](https://avdeshjadon-dev.github.io/calculator/)
 
 ---
 
