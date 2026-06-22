@@ -29,7 +29,7 @@ A sleek and responsive **Basic Calculator** built with HTML, CSS, and JavaScript
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
